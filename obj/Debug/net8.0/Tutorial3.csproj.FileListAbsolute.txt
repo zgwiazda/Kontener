@@ -1,0 +1,14 @@
+/Users/zuziagwiazda/Desktop/Tutorial3/Tutorial3/bin/Debug/net8.0/Tutorial3
+/Users/zuziagwiazda/Desktop/Tutorial3/Tutorial3/bin/Debug/net8.0/Tutorial3.deps.json
+/Users/zuziagwiazda/Desktop/Tutorial3/Tutorial3/bin/Debug/net8.0/Tutorial3.runtimeconfig.json
+/Users/zuziagwiazda/Desktop/Tutorial3/Tutorial3/bin/Debug/net8.0/Tutorial3.dll
+/Users/zuziagwiazda/Desktop/Tutorial3/Tutorial3/bin/Debug/net8.0/Tutorial3.pdb
+/Users/zuziagwiazda/Desktop/Tutorial3/Tutorial3/obj/Debug/net8.0/Tutorial3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zuziagwiazda/Desktop/Tutorial3/Tutorial3/obj/Debug/net8.0/Tutorial3.AssemblyInfoInputs.cache
+/Users/zuziagwiazda/Desktop/Tutorial3/Tutorial3/obj/Debug/net8.0/Tutorial3.AssemblyInfo.cs
+/Users/zuziagwiazda/Desktop/Tutorial3/Tutorial3/obj/Debug/net8.0/Tutorial3.csproj.CoreCompileInputs.cache
+/Users/zuziagwiazda/Desktop/Tutorial3/Tutorial3/obj/Debug/net8.0/Tutorial3.dll
+/Users/zuziagwiazda/Desktop/Tutorial3/Tutorial3/obj/Debug/net8.0/refint/Tutorial3.dll
+/Users/zuziagwiazda/Desktop/Tutorial3/Tutorial3/obj/Debug/net8.0/Tutorial3.pdb
+/Users/zuziagwiazda/Desktop/Tutorial3/Tutorial3/obj/Debug/net8.0/Tutorial3.genruntimeconfig.cache
+/Users/zuziagwiazda/Desktop/Tutorial3/Tutorial3/obj/Debug/net8.0/ref/Tutorial3.dll
